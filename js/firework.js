@@ -3,7 +3,7 @@ var ctx=canvas.getContext('2d');
 var fireworks=[];
 var animateId;
 
-var text="平平小天使~~~，从看到你的那一刻起，我的心跳就告诉我你是我今生等待的人，是你给了我勇气和动力，我会用一生的努力来呵护这份心动的，我爱你！";
+var text="航爷航爷，我是你爸爸~~~，过来，坐下！咱爷俩说说话~~~";
 function fireWork(ftext) {
     /*烟花属性*/
     this.particleCount=Math.random()*20+140;              //爆炸后的粒子数
